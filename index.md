@@ -1,3 +1,5 @@
+# Katelyn MacDonald's First CS193 Homework
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -15,8 +17,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+## Favorite things about CS193
+- The teachers (Of course)
+- The knowledge we are going to learn about GitHub
 
 1. Numbered
 2. List
